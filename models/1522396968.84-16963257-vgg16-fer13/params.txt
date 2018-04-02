@@ -1,0 +1,18 @@
+WEIGHTS_FILE=vgg16
+DATA_DIR=/mnt/sda2/dev_root/dataset/original/fer2013_224_NEW_CLEAN/
+BATCH_SIZE=100
+DIMENSION=224
+per_class_log=False
+freeze_layers=12
+perturbate_epsilon=None
+per_class_log=False
+reduce_lr_factor=None
+reduce_lr_patience=5
+
+TRAIN_DATA_COUNT=28648
+VALID_DATA_COUNT=3583
+***
+OPTIMIZER class=SGD
+OPTIMIZER lr=0.0010000000475
+OPTIMIZER decay=0.000500000023749
+OPTIMIZER momentum=0.899999976158
