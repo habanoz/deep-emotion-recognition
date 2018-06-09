@@ -1,0 +1,6 @@
+stacked models:
+thesis\models\simplified_vggface\1526928528.82-17403535-sample_7\checkpoints\w.017-0.6949-1.72.hdf5
+siu\1522396968.84-16963257-vgg16-fer13\checkpoints\w.032-0.6464-1.15.hdf5
+siu\1522605364.22-12593475-resnet-fer13\checkpoints\w.014-0.6121-2.29.hdf5
+
+mlp 1024+512
