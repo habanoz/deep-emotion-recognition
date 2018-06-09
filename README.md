@@ -11,7 +11,9 @@ Trained model weights can be found under checkpoints folders. Models files are s
 
 Thesis
 Thesis module relies on models from siu module.
--VGGFace
--Simplified VGGFace
--Stacked Base Models : Simplified VGGFace + VGG16+ ResNet50
--Stacked Experts (MLP 1024+512) : Simplified VGGFace + Fear-Expert + Sad-Expert
+- VGGFace
+- Simplified VGGFace
+- Stacked Base Models : Simplified VGGFace + VGG16+ ResNet50
+- Stacked Experts (MLP 1024+512) : Simplified VGGFace + Fear-Expert + Sad-Expert
+
+source code is published in deep-emotion-recognition-src project 
