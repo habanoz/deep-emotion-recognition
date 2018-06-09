@@ -1,0 +1,18 @@
+WEIGHTS_FILE=vggface
+DATA_DIR=/mnt/sda2/dev_root/dataset/combined/FER13-SFEW-YALE-CKP-224-ONE-VS-REST-SUBSAMPLED-VAl-BALANCED/Happy_VS_rest/
+BATCH_SIZE=64
+DIMENSION=224
+per_class_log=False
+freeze_layers=12
+perturbate_epsilon=None
+per_class_log=False
+reduce_lr_factor=None
+reduce_lr_patience=5
+
+TRAIN_DATA_COUNT=14201
+VALID_DATA_COUNT=1881
+***
+OPTIMIZER class=SGD
+OPTIMIZER lr=0.0010000000475
+OPTIMIZER decay=0.000500000023749
+OPTIMIZER momentum=0.899999976158
