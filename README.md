@@ -16,8 +16,13 @@ Thesis module relies on models from siu module.
 - Stacked Base Models : Simplified VGGFace + VGG16+ ResNet50
 - Stacked Experts (MLP 1024+512) : Simplified VGGFace + Fear-Expert + Sad-Expert
 
-Source code is published in:
+This study is published in 2018 26th Signal Processing and Communications Applications Conference (SIU):
+https://ieeexplore.ieee.org/document/8404346/
+
+Source code is published in deep-emotion-recognition-src repository:
 https://github.com/habanoz/deep-emotion-recognition-src
 
-Information about how to use models can be used in:
+Information about how to use models can be used in related engineering blog page:
 https://huseyinabanozeng.blogspot.com/2018/06/how-to-use-keras-trained-cnn-models.html
+
+
